@@ -6,8 +6,6 @@ tags:
 difficulty: easy
 ---
 
-This recipe uses a thin **julienne** on the garnish; see [[Julienne]] for the technique.
-
 The base method is in [[Smoked Salmon.cook]].
 
 Personally, I store the bread in zip lock bags with 6 bread slices per bag and keep them in the freezer.  
